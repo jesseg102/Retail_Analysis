@@ -39,7 +39,7 @@ In the contemporary e-commerce landscape, data plays a pivotal role in optimizin
 
 #### Data Acquisition and Aggregation
 
-Data for this study is sourced from multiple operational sources and stored in Azure SQL Database. Azure Data Factory orchestrates periodic data refreshes and transformations to maintain data currency and prepare it for analytical tasks. Exploratory Data Analysis (EDA) provides insights into customer behaviors and transaction patterns, guiding further analytical approaches.
+Data for this study is sourced from multiple operational sources and stored in Azure SQL Database. The primary dataset used for this analysis was the “Retail Transactional Dataset” by Jikadara (2024), found on Kaggle. Azure Data Factory orchestrates periodic data refreshes and transformations to maintain data currency and prepare it for analytical tasks. Exploratory Data Analysis (EDA) provides insights into customer behaviors and transaction patterns, guiding further analytical approaches.
 
 #### Data Quality
 
