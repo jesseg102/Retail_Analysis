@@ -1,3 +1,29 @@
+### Diagram of our project in github
+
+
+```
+
+├── Dataset
+│   ├── customer_info.csv
+│   ├── feedback.csv
+│   ├── product_info.csv
+│   ├── retail_data.csv
+│   ├── transaction_details.csv
+│   └── transaction.csv
+├── EDA
+│   └── EDA_pipeline_building.ipynb
+├── Model_building
+│   ├── ads_599_Model_building_classifier.ipynb
+│   └── retail_product_recommendation.ipynb
+├── data_pipeline
+│   ├── database_building.sql
+│   └── pipeline_building.ipynb
+└── pre-processing
+    └── ads_599_preprocessing.ipynb
+
+```
+
+
 # Retail Analytics: Understanding Customer Behavior through Transaction Data
 
 In today's rapidly evolving e-commerce landscape, businesses face the challenge of adapting to new technologies and shifting consumer behaviors. The surge in online shopping, accelerated by global events such as the COVID-19 pandemic, has intensified competition, making innovation imperative. Larger competitors dominate the market, necessitating efficient resource allocation strategies to identify high-value customer segments, optimize marketing spending, and enhance user experience (UX) to foster loyalty.
