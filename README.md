@@ -1,4 +1,4 @@
-### Diagram of our project in github
+### Diagram of the project
 
 
 ```
